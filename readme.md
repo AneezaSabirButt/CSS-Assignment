@@ -1,22 +1,23 @@
-PAGE DESIGN FOR AKS_TRIVIA_NIGHT_2021!! 
+<h1>PAGE DESIGN FOR AKS_TRIVIA_NIGHT_2021!!</h1>
 
-An **assignment** from the **web development** session-4
+<p>An **assignment** from the **web development** session-4</p>
 <div>
     It includes:
     <div>
-        *Left side:* 
-        -Info about the game
-        -blackish grey background
+        **Left side:**
+        <br/>-Info about the game
+        <br/>-blackish grey background
+    </div>
+    <div>
+     **Right side:**
+     <br/>-Button for music
+     <br/>-Aks logo
+     <br/>-Welcoming text
+     <br/>-Button to get question
+     <br/>-Timer (25sec)
+     <br/>-Logo of github
     </div>
 </div>
-    <div>
-     *Right side:*
-     -Button for music
-     -Aks logo
-     -Welcoming text
-     -Button to get question
-     -Timer (25sec)
-     -Logo of github
-    </div>
-[Open this Link to see my Assignment][http://127.0.0.1:5500/index.html]
-   
+
+
+[Open this Link to see my Assignment] [http://127.0.0.1:5500/index.html]
